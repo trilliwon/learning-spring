@@ -1,13 +1,13 @@
-package com.trilliwon.myapp;
+package payroll;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyappApplication {
+public class EmployeeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyappApplication.class, args);
+        SpringApplication.run(EmployeeApplication.class, args);
     }
 
 }
